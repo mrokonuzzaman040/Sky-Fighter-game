@@ -1,0 +1,7 @@
+Package: skywarr
+Version: 1.0.0
+Section: games
+Priority: optional
+Architecture: amd64
+Maintainer: SkyWarr Developer <developer@example.com>
+Description: Space shooter game with single and multiplayer modes

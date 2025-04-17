@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Sky Warr
+Comment=Space shooter game
+Exec=skywarr
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
